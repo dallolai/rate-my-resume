@@ -4,3 +4,6 @@
 [submodule "ai-rate-my-resume"]
 	path = ai-rate-my-resume
 	url = git@github.com:ishaksebsib/ai-rate-my-resume.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/abdulmunimjemal/rate-my-resume.git
